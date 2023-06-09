@@ -6,7 +6,7 @@
 	<nav class="navbar navbar-expand-lg navbar-light" >
 			
 			<a class="navbar-brand" href="#">
-				<img src="public/assets/images/logo.png">
+				<img src="/src/asse/images/logo.png">
 			</a>
 
 			<ul class="navbar-nav align-items-center d-none d-lg-flex  leftMenuOptions">
