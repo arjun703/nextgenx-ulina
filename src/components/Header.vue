@@ -9,6 +9,7 @@
 				<img src="/src/assets/images/logo2.png">
 			</a>
 
+
 			<ul class="navbar-nav align-items-center d-none d-lg-flex  leftMenuOptions">
 				<li class="nav-item dropdown active">
 					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
